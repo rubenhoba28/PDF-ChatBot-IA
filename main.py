@@ -11,12 +11,12 @@ from htmlTemplates import css, bot_template, user_template
 from langchain.llms import HuggingFaceHub
 
 def get_pdf_text(pdf_docs):
-    text = ""
+    texts = ""
     for pdf in pdf_docs:
         pdf_reader = PdfReader(pdf)
         for page in pdf_reader.pages:
-            text += page.extract_text()
-    return text
+            texts += page.extract_text()
+    return texts
 
 
 def get_text_chunks(text):
