@@ -62,11 +62,7 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-For any questions or feedback, you can reach out to the project maintainers:
-
-- [Your Name](mailto:your.email@example.com)
 
     
     
