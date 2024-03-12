@@ -6,7 +6,7 @@ This repository contains a Streamlit web application for running a chatbot. The 
 
 To set up the environment and install the required dependencies, follow these steps:
 
-1. Make sure you have Python 3.x and Pipenv installed on your system.
+1. Make sure you have Python 3.9 and Pipenv installed on your system.
 
 2. Clone this repository to your local machine.
 
